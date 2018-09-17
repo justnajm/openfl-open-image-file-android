@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="openfl Open Album" package="us.najam.openfl.openalbum" version="1.0.0" company="None" />
+	<app main="Main" path="Export" file="OpenflOpenAlbum" />
+	<window orientation="landscape" />
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<include path="../extensionkit" />
+	<include path="../SetBrightness" />
+	<assets path="Assets" rename="assets" />
+	
+</project>
